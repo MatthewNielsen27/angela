@@ -1,4 +1,4 @@
 # Angela
 
-Angela, an efficient, header-only,  Merkle Tree implementation in c++17.
-
+Angela, an efficient _Merkle Tree_ implementation in C++20. This project was designed to test out various C++20 language
+features.
